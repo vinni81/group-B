@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() 
-    {
+{
     int number, digit, sum = 0;
 
     printf("Enter natural number: ");
@@ -25,6 +25,6 @@ int main()
     }
 
     return 0;
-    }
+}
 
 
