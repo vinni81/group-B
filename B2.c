@@ -3,7 +3,7 @@
 
 
 int main() 
-  {
+{
     int a, b;
 
     printf("Enter two integers (a ≤ b): ");
@@ -25,5 +25,5 @@ int main()
     }
 
     return 0;
-    }
+}
 
