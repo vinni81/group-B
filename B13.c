@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() 
-    {
+{
     int number, digit, evenCount = 0, oddCount = 0;
 
     printf("Enter a number: ");
