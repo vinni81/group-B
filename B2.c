@@ -19,7 +19,8 @@ int main()
             printf("%d ", square);
         }
         printf("\n");
-    } else 
+    } 
+    else 
     {
         printf("check correct input a ≤ b.\n");
     }
